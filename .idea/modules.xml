@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/easymall-order/easymall-order.iml" filepath="$PROJECT_DIR$/easymall-order/easymall-order.iml" />
       <module fileurl="file://$PROJECT_DIR$/easymall-product/easymall-product.iml" filepath="$PROJECT_DIR$/easymall-product/easymall-product.iml" />
       <module fileurl="file://$PROJECT_DIR$/easymall-ware/easymall-ware.iml" filepath="$PROJECT_DIR$/easymall-ware/easymall-ware.iml" />
+      <module fileurl="file://$PROJECT_DIR$/renren-fast/renren-fast.iml" filepath="$PROJECT_DIR$/renren-fast/renren-fast.iml" />
     </modules>
   </component>
 </project>

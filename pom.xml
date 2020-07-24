@@ -20,6 +20,7 @@
         <module>easymall-product</module>
         <module>easymall-ware</module>
         <module>easymall-order</module>
+        <module>renren-fast</module>
     </modules>
 
 
