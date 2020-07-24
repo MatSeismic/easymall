@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="easymall-order" />
+        <module name="easymall-coupon" />
+        <module name="easymall-product" />
+        <module name="easymall-ware" />
+        <module name="easymall-member" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="easymall" target="1.5" />
+      <module name="easymall-coupon" target="11" />
+      <module name="easymall-member" target="11" />
+      <module name="easymall-order" target="11" />
+      <module name="easymall-product" target="11" />
+      <module name="easymall-ware" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="easymall-coupon" options="-parameters" />
+      <module name="easymall-member" options="-parameters" />
+      <module name="easymall-order" options="-parameters" />
+      <module name="easymall-product" options="-parameters" />
+      <module name="easymall-ware" options="-parameters" />
+    </option>
+  </component>
+</project>
