@@ -21,6 +21,8 @@
         <module>easymall-ware</module>
         <module>easymall-order</module>
         <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>easymall-common</module>
     </modules>
 
 
